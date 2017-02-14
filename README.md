@@ -1,7 +1,9 @@
 # Simple Carousel with ReactJs + BaconJs
 
 ## Preview
-    The build is accessible here: https://cdn.rawgit.com/singuyen/simpleCarousel/219ba3d6/dist/docs/index.html
+    The build is accessible here:
+    [https://cdn.rawgit.com/singuyen/simpleCarousel/219ba3d6/dist/docs/index.html](https://cdn.rawgit.com/singuyen/simpleCarousel/219ba3d6/dist/docs/index.html)
+
 
 ### Clone the repo
 
