@@ -1,8 +1,13 @@
 # Simple Carousel with ReactJs + BaconJs
 
+This is a simple Carousel demo with ReactJs and very basic BaconJs to manage the stream.
+
+Note:
+I'm reusing a bit of foundation from my previous projects like eslintrc + sass-lint as a habit. The configuration is my own taste so please feel free to use different setting.
+
 ## Preview
 The build is accessible here:
-[Preview on rawgit.com](https://cdn.rawgit.com/singuyen/simpleCarousel/219ba3d6/dist/docs/index.html)
+[https://cdn.rawgit.com/singuyen/simpleCarousel/219ba3d6/dist/docs/index.html](https://cdn.rawgit.com/singuyen/simpleCarousel/219ba3d6/dist/docs/index.html)
 
 ### Clone the repo
 
@@ -16,7 +21,7 @@ The build is accessible here:
 ## Development
 
     grunt && grunt watcher
-    serve -p 3000 //Make sure using port 3000 to have the local JSON data working.
+    serve -p 3000
     Open browser with address: http://localhost:3000/dist/docs/
 
 ### Build Commands
