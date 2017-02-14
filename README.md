@@ -1,4 +1,4 @@
-# Fox Sports Isomorphic Match Centre NRL
+# Simple Carousel with ReactJs + BaconJs
 
 ## Getting Started
 
