@@ -1,9 +1,9 @@
 # Simple Carousel with ReactJs + BaconJs
 
-This is a simple Carousel demo with ReactJs and very basic BaconJs to manage the stream.
+This is a very simple Carousel demo, using ReactJs + basic BaconJs to manage the stream to demonstrate how [ReactJs](https://facebook.github.io/react) and [BaconJs](https://baconjs.github.io) can work together.
 
 Note:
-I'm reusing a bit of foundation from my previous projects like eslintrc + sass-lint as a habit. The configuration is my own taste so please feel free to use different setting.
+I'm reusing a bit of foundation from my previous projects like eslintrc + sass-lint + editorconfig as a habit. So please feel free to use different setting. There might be some redundant ddependencies I haven't got time to clean up.
 
 ## Preview
 The build is accessible here:
